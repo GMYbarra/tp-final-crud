@@ -1,0 +1,34 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+
+# Visual Studio working folder
+.vs/
+
+# Logs
+*.log
+
+# Publish output
+dist/
+
+# Environment files
+appsettings.Development.json
+appsettings.Local.json
+*.env
+
+# SQLite / cache / temp
+*.db
+*.db-shm
+*.db-wal
+
+# Node modules (por si más adelante agregás front con npm)
+node_modules/
+
+# Frontend build output
+/build
+/.parcel-cache
+/.cache
